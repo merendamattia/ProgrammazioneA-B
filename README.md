@@ -1,3 +1,4 @@
-# ProgrammazioneA-B
-Programmazione parte A: https://github.com/merendamattia/FdP-A
-Programmazione parte B: https://github.com/merendamattia/FdP-B
+# Programmazione A + B
+###### Repository parte A: https://github.com/merendamattia/FdP-A
+###### Repository parte B: https://github.com/merendamattia/FdP-B
+
